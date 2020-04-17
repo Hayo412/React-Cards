@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tarjetones/static/css/main.16662801.chunk.css",
+    "main.js": "/tarjetones/static/js/main.b163531d.chunk.js",
+    "main.js.map": "/tarjetones/static/js/main.b163531d.chunk.js.map",
+    "runtime-main.js": "/tarjetones/static/js/runtime-main.e1872f37.js",
+    "runtime-main.js.map": "/tarjetones/static/js/runtime-main.e1872f37.js.map",
+    "static/js/2.7bc78169.chunk.js": "/tarjetones/static/js/2.7bc78169.chunk.js",
+    "static/js/2.7bc78169.chunk.js.map": "/tarjetones/static/js/2.7bc78169.chunk.js.map",
+    "index.html": "/tarjetones/index.html",
+    "precache-manifest.5c802f71e3e6f3b7475301d90885412d.js": "/tarjetones/precache-manifest.5c802f71e3e6f3b7475301d90885412d.js",
+    "service-worker.js": "/tarjetones/service-worker.js",
+    "static/css/main.16662801.chunk.css.map": "/tarjetones/static/css/main.16662801.chunk.css.map",
+    "static/js/2.7bc78169.chunk.js.LICENSE.txt": "/tarjetones/static/js/2.7bc78169.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1872f37.js",
+    "static/js/2.7bc78169.chunk.js",
+    "static/css/main.16662801.chunk.css",
+    "static/js/main.b163531d.chunk.js"
+  ]
+}
